@@ -1,3 +1,9 @@
+# About this fork by devfix
+- the original wxMathPlot project can be found [here](https://sourceforge.net/projects/wxmathplot/)
+- the project has a strange makro problem, see this [stackoverflow post](https://stackoverflow.com/a/14899725/10574851) for details
+- the origin of this fork from [mkarmona](https://github.com/mkarmona/wxMathPlot) and fixes this, be leaves out some compiler warning
+- this fork just fixes this warnings
+
 # This is the old readme
 
 wxMathPlot is a framework for mathematical graph plotting in wxWindows.
